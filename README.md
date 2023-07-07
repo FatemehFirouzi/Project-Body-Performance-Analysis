@@ -1,5 +1,5 @@
 # Project-Body-Performance-Analysis
-The objective of this project is to develop a multi-classification model which is able to predict performance based on health indicators.
+The objective of this project is to develop a multi-classification model which is able to predict athletes' performance based on health indicators unig Python.
 ## Introduction
 This is my master project aimed at data understanding and developing a multi-classification model which is able to predict performance based on health indicators, using Python. I looked at health factors such as age, blood pressure, height, weight, body fat percentage  and how they are related to overall body performance. Creating a successful model could help athletes identify the most important factors that affect their performance and focus on these factors.   
 ## Dataset overview
